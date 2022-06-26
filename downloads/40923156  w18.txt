@@ -1,0 +1,49 @@
+<h1>week18 期末考週</h1>
+<p>2022/6/22第18週上課線上自評成績</p>
+<p></p>
+<p>1.用week8的uarm的手臂零件</p>
+<p>使用nx1980進行修改<span>front joint跟絞鍊</span></p>
+<p><span>但我的nx198故障所以跟同學借了nx12來修改零件外型</span></p>
+<p><span>然後將 "Triangular connecting rod", "left link" 與 "end link" 等零組件, 與 "right crank" 與 "right link" 的組件左右互換.</span></p>
+<p><span><img alt="" height="281" src="https://zhilin-0817.github.io/cd2022/images/56-1.png" width="500"></span></p>
+<p></p>
+<p><span>&nbsp;<img alt="" src="https://zhilin-0817.github.io/cd2022/images/56-2.png" width="500"></span></p>
+<p></p>
+<p><span><img alt="" src="https://zhilin-0817.github.io/cd2022/images/56-3.png" width="500"></span></p>
+<p></p>
+<p><span></span></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1056" height="594" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://zhilin-0817.github.io/cd2022/downloads/final-1.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>心得 因為很少用nx畫圖，所以修改零件過程不是很順利。在更改零件外型時也有考慮不周，導致組裝上有問題，所以反覆修改零件花了一些時間，之後應該要熟悉各種繪圖軟體，遇到問題時才能有備用方案。</p>
+<p><span></span></p>
+<p><span></span></p>
+<p><span></span></p>
+<p><span>第3~第5個任務協同的方式完成</span></p>
+<p>我們用teams的方式做開會討論</p>
+<p><span>3.</span></p>
+<p><iframe width="942" height="530" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/c5xORPSu2KE" title="任務三： XML UI slider 控制功能"></iframe></p>
+<p><span>4.</span></p>
+<p><iframe width="942" height="530" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/17Esw0Dj9-k" title="任務四：手動操控或程式操控的方式，block 方塊零件的取放模擬影片"></iframe></p>
+<p><span></span></p>
+<p><span>5. <iframe width="942" height="530" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/LKhZrXvGfTE" title="任務五：以跨網路 Python remote API 的方式,由 slider 控制前三軸的轉動"></iframe></span></p>
